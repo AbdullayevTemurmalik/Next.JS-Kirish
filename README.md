@@ -1,1 +1,1 @@
-Next.JS ni Kirish Codelarini korishingiz organishingiz va olib i
+Next.JS ni Kirish Codelarini korishingiz organishingiz va o
