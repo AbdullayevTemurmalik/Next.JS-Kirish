@@ -1,1 +1,1 @@
-Next.JS ni Kirish Codelarini korishingiz org
+Next.JS ni Kirish Codelarini korishingiz 
