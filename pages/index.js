@@ -9,12 +9,7 @@ export default function Home() {
         <title>Home</title>
       </Head>
       <h1 className={style.title}>Welcome to Next.js!</h1>
-      <Image
-        src="/images/nextjs.png"
-        alt="Next.js Logo"
-        width={200}
-        height={200}
-      />
+      <Image src="/next.svg" alt="Next.js Logo" width={200} height={200} />
     </>
   );
 }
