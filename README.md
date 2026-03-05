@@ -1,1 +1,1 @@
-Next.JS ni Kirish
+Next.JS ni Kir
