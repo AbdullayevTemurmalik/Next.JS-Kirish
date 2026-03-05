@@ -1,1 +1,1 @@
-Next.JS ni
+Next.JS
