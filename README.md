@@ -1,1 +1,1 @@
-Next.JS ni Kirish Codela
+Next.JS ni Kirish Co
